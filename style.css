@@ -1,0 +1,31 @@
+*{
+    font-family: Roboto;
+}
+
+body{
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
+
+.header{
+    background-color: #1F2937;
+}
+
+.gallery{
+    background-color: white;
+}
+
+.quoteBody{
+    background-color: #E5E7EB;
+}
+
+.signUpBody{
+    background-color: white;
+}
+
+.footer{
+    background-color: #1F2937;
+}
